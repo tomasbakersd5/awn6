@@ -1,0 +1,341 @@
+div#container
+{
+   width: 970px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+#wb_Image1
+{
+   direction: ltr;
+   vertical-align: top;
+}
+#Image1
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   box-shadow: 5px 5px 10px #000000;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer1
+{
+   box-sizing: border-box;
+}
+#wb_Card1
+{
+   margin: 0;
+   background-color: transparent;
+   background-image: url('images/Hourly_AR_jpg_637924593773657740.jpg');
+   background-repeat: no-repeat;
+   background-position: left top;
+   background-size: cover;
+   border: 1px solid #DEDEDE;
+   border-radius: 35px;
+   text-align: right;
+}
+#Card1-card-body
+{
+   padding: 0;
+   font-size: 0;
+}
+#Card1-card-item0
+{
+   box-sizing: border-box;
+   border-radius: 35px 35px 0 0 !important;
+   margin: 20px 20px 0 20px;
+   padding: 0;
+   color: #FFC446;
+   font-family: Almarai;
+   font-weight: bold;
+   font-style: normal;
+   font-size: 85px;
+   text-align: right;
+}
+#Card1-card-item1
+{
+   box-sizing: border-box;
+   margin: 20px 20px 0 20px;
+   border-top: 1px #D8D8D8 solid;
+   border-width: 1px 0 0 0;
+   height: 0;
+   line-height: 0;
+}
+#Card1-card-item2
+{
+   display: inline-block;
+   height: 81px;
+   box-sizing: border-box;
+   margin: 25px 20px 20px 20px;
+   padding: 16px 16px 15px 16px;
+   border: 1px solid #0275D8;
+   border-radius: 15px;
+   background-color: #4678D4;
+   background-image: none;
+   color: #FFFFFF;
+   font-family: Almarai;
+   font-weight: normal;
+   font-style: normal;
+   font-size: 48px;
+}
+#Card1-card-item2 a
+{
+   color: inherit;
+   text-decoration: none;
+}
+#wb_Heading1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #661515;
+   border-radius: 0px;
+   margin: 0;
+   padding: 0;
+   text-align: center;
+}
+#Heading1
+{
+   color: #661515;
+   font-family: Almarai;
+   font-weight: bold;
+   font-style: normal;
+   font-size: 75px;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text1 
+{
+   padding: 0;
+   margin: 0;
+}
+#wb_Text1
+{
+   color: #202020;
+   font-family: Cairo;
+   font-weight: normal;
+   font-size: 48px;
+}
+#wb_Text1 div
+{
+   text-align: center;
+}
+#wb_Card2
+{
+   margin: 0;
+   background-color: transparent;
+   background-image: url('images/housekeeper_jpg_637964364069542910.jpg');
+   background-repeat: no-repeat;
+   background-position: left top;
+   background-size: cover;
+   border: 1px solid #DEDEDE;
+   border-radius: 35px;
+   text-align: right;
+}
+#Card2-card-body
+{
+   padding: 0;
+   font-size: 0;
+}
+#Card2-card-item0
+{
+   box-sizing: border-box;
+   border-radius: 35px 35px 0 0 !important;
+   margin: 20px 20px 0 20px;
+   padding: 0;
+   color: #FFC446;
+   font-family: Almarai;
+   font-weight: bold;
+   font-style: normal;
+   font-size: 85px;
+   text-align: right;
+}
+#Card2-card-item1
+{
+   box-sizing: border-box;
+   margin: 20px 20px 0 20px;
+   border-top: 1px #D8D8D8 solid;
+   border-width: 1px 0 0 0;
+   height: 0;
+   line-height: 0;
+}
+#Card2-card-item2
+{
+   display: inline-block;
+   height: 81px;
+   box-sizing: border-box;
+   margin: 25px 20px 20px 20px;
+   padding: 16px 16px 15px 16px;
+   border: 1px solid #0275D8;
+   border-radius: 15px;
+   background-color: #4678D4;
+   background-image: none;
+   color: #FFFFFF;
+   font-family: Almarai;
+   font-weight: normal;
+   font-style: normal;
+   font-size: 48px;
+}
+#Card2-card-item2 a
+{
+   color: inherit;
+   text-decoration: none;
+}
+#wb_Card3
+{
+   margin: 0;
+   background-color: transparent;
+   background-image: url('images/Holidays_AR_jpg_637924593440034515.jpg');
+   background-repeat: no-repeat;
+   background-position: left top;
+   background-size: cover;
+   border: 1px solid #DEDEDE;
+   border-radius: 35px;
+   text-align: right;
+}
+#Card3-card-body
+{
+   padding: 0;
+   font-size: 0;
+}
+#Card3-card-item0
+{
+   box-sizing: border-box;
+   border-radius: 35px 35px 0 0 !important;
+   margin: 20px 20px 0 20px;
+   padding: 0;
+   color: #FFC446;
+   font-family: Almarai;
+   font-weight: bold;
+   font-style: normal;
+   font-size: 85px;
+   text-align: right;
+}
+#Card3-card-item1
+{
+   box-sizing: border-box;
+   margin: 20px 20px 0 20px;
+   border-top: 1px #D8D8D8 solid;
+   border-width: 1px 0 0 0;
+   height: 0;
+   line-height: 0;
+}
+#Card3-card-item2
+{
+   display: inline-block;
+   height: 81px;
+   box-sizing: border-box;
+   margin: 25px 20px 20px 20px;
+   padding: 16px 16px 15px 16px;
+   border: 1px solid #0275D8;
+   border-radius: 15px;
+   background-color: #4678D4;
+   background-image: none;
+   color: #FFFFFF;
+   font-family: Almarai;
+   font-weight: normal;
+   font-style: normal;
+   font-size: 48px;
+}
+#Card3-card-item2 a
+{
+   color: inherit;
+   text-decoration: none;
+}
+#wb_Image2
+{
+   direction: ltr;
+   vertical-align: top;
+}
+#Image2
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer2
+{
+   background-color: #FBFBFB;
+   background-image: none;
+   border-radius: 0px;
+}
+#wb_Card4
+{
+   margin: 0;
+   background-color: transparent;
+   background-image: url('images/driver_jpg_637964360164878458.jpg');
+   background-repeat: no-repeat;
+   background-position: left top;
+   background-size: cover;
+   border: 1px solid #DEDEDE;
+   border-radius: 35px;
+   text-align: right;
+}
+#Card4-card-body
+{
+   padding: 0;
+   font-size: 0;
+}
+#Card4-card-item0
+{
+   box-sizing: border-box;
+   border-radius: 35px 35px 0 0 !important;
+   margin: 20px 20px 0 20px;
+   padding: 0;
+   color: #FFC446;
+   font-family: Almarai;
+   font-weight: bold;
+   font-style: normal;
+   font-size: 85px;
+   text-align: right;
+}
+#Card4-card-item1
+{
+   box-sizing: border-box;
+   margin: 20px 20px 0 20px;
+   border-top: 1px #D8D8D8 solid;
+   border-width: 1px 0 0 0;
+   height: 0;
+   line-height: 0;
+}
+#Card4-card-item2
+{
+   display: inline-block;
+   height: 81px;
+   box-sizing: border-box;
+   margin: 25px 20px 20px 20px;
+   padding: 16px 16px 15px 16px;
+   border: 1px solid #0275D8;
+   border-radius: 15px;
+   background-color: #4678D4;
+   background-image: none;
+   color: #FFFFFF;
+   font-family: Almarai;
+   font-weight: normal;
+   font-style: normal;
+   font-size: 48px;
+}
+#Card4-card-item2 a
+{
+   color: inherit;
+   text-decoration: none;
+}
